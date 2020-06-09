@@ -1,0 +1,23 @@
+{
+	"/oauth2/v1/token": "/oauthToken",
+	"/api/client": "/client",
+	"/api/conversation/:manager_id/34562343": "/managerClientConversation",
+	"/api/client/subscribe/:manager_id": "/subscribeManagerConversation",
+	"/api/message/:manager_id": "/postManagerMessage",
+	"/api/conversation/:conversation_id/history": "/managerHistoryConversation",
+	"/api/personal/contracts/client/me": "/contracts",
+	"/api/contracts/client/me/documents/": "/documents",
+	"/api/catalogs?type=RejectClient" : "/rejectionCatalogs",
+	"/api/personal/contracts/client/:contract_id": "/contractDetail",
+	"/api/contracts/client/:contract_id": "/putContractBody",
+  "/api/meetings/customer?customerId=:customerId&day=:day": "/allMeetings",
+  "/api/meetings/customer/busy-days?managerId=:managerId&day=:day": "/busyDays",
+  "/api/meetings": "/createMeeting",
+  "/api/notifications": "/notifications",
+	"/api/notifications/summary": "/notSum",
+	"/api/termsConditions/id": "/termsConditionsID",
+	"/api/customers/me/approve-tc" : "/approve-tc",
+	"/api/customers/me" : "/customerInformation",
+	"/api/upload/viewFile/:contract_id" : "/viewFile",
+	"/api/upload/viewDocumentFile/:document_id" : "/viewFile"
+}
