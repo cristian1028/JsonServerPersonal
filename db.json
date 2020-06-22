@@ -1,0 +1,1153 @@
+{
+  "oauthToken": {
+    "access_token": "MTQ0NjJkZmQ5OTM2NDE1ZTZjNGZmZjI3",
+    "token_type": "Bearer",
+    "expires_in": 20000000,
+    "refresh_token": "IwOGYzYTlmM2YxOTQ5MGE3YmNmMDFkNTVk",
+    "scope": "summary_1.0.0 accounts_1.0.0"
+  },
+  "data": {
+    "leftIcon": "sn-FUNC023",
+    "enablePicker": false
+  },
+  "conversation": {
+    "name": "Armando Martínez López",
+    "senderImgSrc": "./assets/me.png",
+    "recipientImgSrc": "./assets/avatar-2.png",
+    "selectedConversation": [
+      {
+        "time": "Tue Mar 31 2020 17:20:02 GMT+0200 (hora de verano de Europa central)",
+        "isRead": false,
+        "isClient": true,
+        "messages": [
+          {
+            "id": 1,
+            "text": "Hola Armando, para el mes de noviembre tenemos una promoción exclusiva, tarjeta America Express sin anualidad por 2 años y línea de crédito de $40,000.00  ",
+            "hasError": true
+          }
+        ]
+      },
+      {
+        "time": "Tue Mar 31 2020 17:20:02 GMT+0200 (hora de verano de Europa central)",
+        "isRead": false,
+        "isClient": false,
+        "messages": [
+          {
+            "id": 3,
+            "text": "Hola Mario, me interesa.",
+            "hasError": false
+          }
+        ]
+      }
+    ]
+  },
+  "operation-detail": {
+    "catalog": {
+      "id": "hc5p5jecuwuv94x7",
+      "name": "Credito Personal PRE",
+      "createdAt": "2020-05-26T11:43:55.629Z",
+      "description": "Lorem ipsum",
+      "status": "ACTIVE",
+      "tagCategory": "OPERATIONTYPE",
+      "updatedAt": "2020-05-26T11:43:55.629Z"
+    },
+    "contract": {
+	    "amount": 560000,
+      "catalogId": "hc5p5jecuwuv94x7",
+      "createdDateTime": "2020-04-07T21:04:53.372Z",
+      "customerId": "oojq97l6zjeuab1s",
+      "documentId": "8qn980tkg61bma43",
+      "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+      "folderId": "D19-000012345",
+      "historicalDetail":  [
+        {
+          "catalogId": "hc5p5jecuwuv94x7",
+          "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+          "comment": "La etiqueta que proporciona el gerente no es válida para este tipo de producto",
+          "daysDue": 4,
+          "status": "REJECTED_SUBD",
+          "updatedDateTime": "2020-04-07T21:04:53.372Z"
+        },
+        {
+          "catalogId": "hc5p5jecuwuv94x7",
+          "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+          "comment": "El gerente me atendió de forma oportuna e inmediata",
+          "daysDue": 1,
+          "status": "IN_PROGRESS",
+          "updatedDateTime": "2020-04-02T21:04:53.372Z"
+        },
+        {
+          "catalogId": "hc5p5jecuwuv94x7",
+          "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+          "comment": "Promoción para los clientes más destacados",
+          "daysDue": 2,
+          "status": "PENDING",
+          "updatedDateTime": "2020-04-01T21:04:53.372Z"
+        },
+        {
+          "catalogId": "hc5p5jecuwuv94x7",
+          "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+          "comment": "El gerente me atendió de forma oportuna e inmediata",
+          "daysDue": 1,
+          "status": "REJECTED_CLIENT",
+          "updatedDateTime": "2020-04-02T21:04:53.372Z"
+        },
+        {
+          "catalogId": "hc5p5jecuwuv94x7",
+          "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+          "comment": "El gerente me atendió de forma oportuna e inmediata",
+          "daysDue": 1,
+          "status": "INACTIVE",
+          "updatedDateTime": "2020-04-02T21:04:53.372Z"
+        },
+        {
+          "catalogId": "hc5p5jecuwuv94x7",
+          "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+          "comment": "El gerente me atendió de forma oportuna e inmediata",
+          "daysDue": 1,
+          "status": "CANCELLED",
+          "updatedDateTime": "2020-04-02T21:04:53.372Z"
+        },
+        {
+          "catalogId": "hc5p5jecuwuv94x7",
+          "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+          "comment": "El gerente me atendió de forma oportuna e inmediata",
+          "daysDue": 1,
+          "status": "AUTHORIZED",
+          "updatedDateTime": "2020-04-02T21:04:53.372Z"
+        }
+      ],
+      "id": "z3ghguekdj6wxu9z",
+      "latestComment": "La etiqueta que proporciona el gerente no es válida para este tipo de producto",
+      "latestStatus": "REJECTED_SUBD",
+      "isTermsAndConditions": true
+    },
+    "customer": {
+      "bankSegment": {
+        "key": "string",
+        "name": "string"
+      },
+      "buc": "52348512",
+      "contactInfo": [
+        {
+          "email": "julio.amati@gmail.com",
+          "mobile_number": "string",
+          "phone_number": "55467273",
+          "status": "REGISTERED",
+          "type": "BRANCH_USE"
+        }
+      ],
+      "contactMethod": "EMAIL",
+      "executiveId": "4e20fbb243684d9eb19ff33a50ee233f",
+      "fiscalRegime": "NATURAL",
+      "key": "oojq97l6zjeuab1s",
+      "lastLoginTimestamp": "2020-06-10T14:57:04.291Z",
+      "lastLogoutTimestamp": "2020-06-10T14:57:04.291Z",
+      "lastName": "García",
+      "name": "Julio",
+      "personalIdentifier": "string",
+      "profilePicture": "http://localhost:3002/avatar-7.png",
+      "registrationDate": "2020-06-10",
+      "secondLastName": "string",
+      "secondName": "Amati",
+      "status": "ACTIVE",
+      "termsAndConditionsId": "string",
+      "universityEnabled": true
+    },
+    "executive": {
+      "buc": "Z34567",
+      "email": "string",
+      "extension": "4597",
+      "key": "4e20fbb243684d9eb19ff33a50ee233f",
+      "lastLoginTimestamp": "2020-06-10T14:57:04.291Z",
+      "lastLogoutTimestamp": "2020-06-10T14:57:04.291Z",
+      "lastName": "Rodríguez",
+      "name": "Pedro",
+      "personalIdentifier": "string",
+      "phoneNumber": "string",
+      "profilePicture": "http://localhost:3002/avatar-5.png",
+      "ratings": [
+        {
+          "comment": "string",
+          "contractId": "string",
+          "dateTime": "2020-06-10T14:57:04.291Z",
+          "id": "string",
+          "score": 3
+        }
+      ],
+      "registrationDate": "2020-06-10T14:57:04.291Z",
+      "role": "ADMIN",
+      "secondLastName": "string",
+      "secondName": "Sánchez",
+      "signatureNumber": "string",
+      "status": "ACTIVE",
+      "supervisorId": "string"
+    },
+    "subManager": {
+      "buc": "Z78376",
+      "email": "string",
+      "extension": "string",
+      "key": "string",
+      "lastLoginTimestamp": "2020-06-10T14:57:04.291Z",
+      "lastLogoutTimestamp": "2020-06-10T14:57:04.291Z",
+      "lastName": "Mena",
+      "name": "Ana",
+      "personalIdentifier": "string",
+      "phoneNumber": "string",
+      "profilePicture": "http://localhost:3002/avatar-4.png",
+      "ratings": [
+        {
+          "comment": "string",
+          "contractId": "string",
+          "dateTime": "2020-06-10T14:57:04.291Z",
+          "id": "string",
+          "score": 4
+        }
+      ],
+      "registrationDate": "2020-06-10T14:57:04.291Z",
+      "role": "ADMIN",
+      "secondLastName": "string",
+      "secondName": "López",
+      "signatureNumber": "string",
+      "status": "ACTIVE",
+      "supervisorId": "string"
+    }
+  },
+  "customer": {
+    "buc": "52348512",
+    "key": "oojq97l6zjeuab1s",
+    "last_name": "AMATI",
+    "name": "JULIO",
+    "profile_picture": "/store/profile/52348512.png",
+    "second_name": "BARCELONA"
+  },
+  "executive": {
+    "buc": "123456789",
+    "key": "4e20fbb243684d9eb19ff33a50ee233f",
+    "lastName": "Gutierrez",
+    "name": "Ana Maria",
+    "secondName": "Hernandez",
+    "email": "string",
+    "extension": "string",
+    "personalIdentifier": "string",
+    "phoneNumber": "string",
+    "profilePicture": "string",
+    "ratings": [
+      {
+        "comment": "string",
+        "contractId": "string",
+        "dateTime": "2020-05-05T08:42:47.543Z",
+        "id": "string",
+        "score": 0
+      }
+    ],
+    "registrationDate": "2020-05-05T08:42:47.543Z",
+    "role": "ADMIN",
+    "signatureNumber": "string",
+    "status": "ACTIVE"
+  },
+  "contractDetail": {
+    "data": {
+      "id": "123123232",
+      "folderId": "D-123456789",
+      "customer": {
+        "name": "Diego Reynoso Ortíz Monasterio",
+        "buc": "12345678"
+      },
+      "documentId": "123123123",
+      "executive": {
+        "name": "Ricardo Aguilar Castillo",
+        "zuser": "Z345678"
+      },
+      "catalogId": "12312312",
+      "amount": "3456789.90",
+      "createdDateTime": "2020-04-15T02:59:11.957Z",
+      "latestComment": "Cambios",
+      "latestStatus": "IN_PROGRESS",
+      "historicalDetail": [
+        {
+          "status": "IN_PROGRESS",
+          "updatedDateTime": "2020-04-15T02:59:11.957Z",
+          "comment": "El gerente que me atendió de forma oportuna e inmediata",
+          "superToken": "12345678",
+          "daysDue": 0,
+          "rating": 4
+        },
+        {
+          "status": "PENDING",
+          "updatedDateTime": "2020-04-15T02:59:11.957Z",
+          "comment": "Promoción para los clientes mas destacados",
+          "daysDue": 0
+        }
+      ]
+    },
+    "notifications": [
+      {
+        "level": "WARNING",
+        "code": "E422CDNPAYRCPTG001",
+        "message": "Something happened.",
+        "timestamp": "2020-04-15T02:59:11.957Z"
+      }
+    ]
+  },
+  "rejectionSubdirectorCatalogs": {
+    "data": [
+      {
+        "id": "4e20fbb243684d9eb19ff33a50ee422e",
+        "name": "Mortgage",
+        "description": "Acceptations",
+        "tagCategory": "RejectSubd",
+        "status": "ACTIVE",
+        "createdAt": "2020-04-16T01:44:22.001Z",
+        "updatedAt": "2020-04-16T01:44:22.001Z"
+      }
+    ],
+    "notifications": [
+      {
+        "level": "WARNING",
+        "code": "E422CDNPAYRCPTG001",
+        "message": "Something happened.",
+        "timestamp": "2020-04-16T01:44:22.001Z"
+      }
+    ]
+  },
+  "cancellationCatalogs": {
+    "data": [
+      {
+        "id": "4e20fbb243684d9eb19ff33a50ee422e",
+        "name": "Mortgage",
+        "description": "Acceptations",
+        "tagCategory": "Cancellation",
+        "status": "ACTIVE",
+        "createdAt": "2020-04-16T01:44:22.001Z",
+        "updatedAt": "2020-04-16T01:44:22.001Z"
+      }
+    ],
+    "notifications": [
+      {
+        "level": "WARNING",
+        "code": "E422CDNPAYRCPTG001",
+        "message": "Something happened.",
+        "timestamp": "2020-04-16T01:44:22.001Z"
+      }
+    ]
+  },
+  "executiveInfo": {
+    "data": {
+      "key": "4e20fbb243684d9eb19ff33a50ee422e",
+      "buc": "123456789",
+      "id": "123456789",
+      "name": "Ana Maria",
+      "secondName": "Hernandez",
+      "lastName": "Gutierrez",
+      "profilePicture": "http://localhost:3002/avatar-1.png",
+      "status": "ACTIVE",
+      "role": "ADMIN",
+      "personalIdentifier": "MARE921122HJKDLN01",
+      "phoneNumber": "(55)-55-46-89-79",
+      "signatureNumber": "string",
+      "extension": "8732",
+      "email": "mail@mail.com",
+      "registrationDate": "2020-04-16T21:32:40.312Z",
+      "rating": 5,
+      "lastLoginTimestamp": "2020-05-16T19:15:30.312Z",
+      "lastLogoutTimestamp": "2020-05-16T21:32:40.312Z"
+    },
+    "notifications": [
+      {
+        "level": "WARNING",
+        "code": "E422CDNPAYRCPTG001",
+        "message": "Something happened.",
+        "timestamp": "2020-04-16T21:32:40.312Z"
+      }
+    ]
+  },
+  "managerClients": {
+    "data": {
+      "clients": [
+        {
+          "id": "358990",
+          "conversationId": "1",
+          "name": "Fernanda",
+          "secondName": "Brenes",
+          "lastName": "Poe",
+          "status": "INACTIVE",
+          "lastMessage": "Cualquier consulta, estoy atento a los comentarios",
+          "time": "2020-04-16T21:32:40.312Z",
+          "messageLength": null,
+          "hasUnreadMessages": false,
+          "profilePicture": "",
+          "isMenuOpen": false
+        },
+        {
+          "buc": "3589901",
+          "conversationId": "1",
+          "name": "Ronald",
+          "secondName": "Matarrita",
+          "lastName": "Vega",
+          "status": "INACTIVE",
+          "lastMessage": "Claro que si, ya te los comparto",
+          "time": "2020-04-16T21:32:40.312Z",
+          "messageLength": null,
+          "hasUnreadMessages": false,
+          "profilePicture": ""
+        }
+      ]
+    }
+  },
+  "newManagerClients": {
+    "data": {
+      "clients": [
+        {
+          "id": "358990",
+          "conversationId": "1",
+          "name": "Juan",
+          "secondName": "Brenes",
+          "lastName": "Poe",
+          "status": "INACTIVE",
+          "lastMessage": "Cualquier consulta, estoy atento a los comentarios",
+          "time": "2020-04-16T21:32:40.312Z",
+          "messageLength": null,
+          "hasUnreadMessages": false,
+          "profilePicture": "",
+          "isMenuOpen": false
+        },
+        {
+          "id": "3589901",
+          "conversationId": "1",
+          "name": "Roberto",
+          "secondName": "Vargas",
+          "lastName": "Vega",
+          "status": "INACTIVE",
+          "lastMessage": "Claro que si, ya te los comparto",
+          "time": "2020-04-16T21:32:40.312Z",
+          "messageLength": null,
+          "hasUnreadMessages": false,
+          "profilePicture": ""
+        }
+      ]
+    }
+  },
+  "conversationHistory":{
+    "data": {
+      "messages": [
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "1",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+          "body": "Hola como estás"
+          },
+          "status": "Leido",
+          "statusMsg": {
+          "status": "Leido",
+          "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "2",
+          "conversationId": "1",
+          "from": "358990",
+          "to": "123456789",
+          "type": "TEXT",
+          "text": {
+            "body": "Tengo unas consultas"
+          },
+          "status": "Enviado",
+          "statusMsg": {
+            "status": "Enviado",
+            "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "3",
+          "conversationId": "1",
+          "from": "123456789",
+          "to": "358990",
+          "type": "TEXT",
+          "text": {
+            "body": "Claro! cuentame en qué te puedo ayudar?"
+          },
+          "status": "Enviado",
+          "statusMsg": {
+            "status": "Leido",
+            "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        },
+        {
+          "id": "4",
+          "conversationId": "1",
+          "from": "123456789",
+          "to": "358990",
+          "type": "TEXT",
+          "text": {
+            "body": "Te voy a pasar un nuevo contrato de todas maneras"
+          },
+          "status": "Eliminado",
+          "statusMsg": {
+            "status": "Leido",
+            "timestamp": "2020-04-20T07:41:44.995Z"
+          },
+          "creationDateTime": "2020-04-20T07:41:44.995Z"
+        }
+      ],
+      "pageNumber": 0,
+      "pageSize": 0,
+      "totalElements": 0,
+      "totalPages": 0,
+      "first": true,
+      "last": false
+    },
+    "notifications": [
+      {
+        "code": "string",
+        "level": "string",
+        "message": "string",
+        "timestamp": "2020-06-03T15:12:56.284Z"
+      }
+    ]
+  },
+  "conversationFilter":{
+    "data": {
+      "coincidences": [
+        {
+          "page": 1,
+          "messagesId": [
+            "123456"
+          ]
+        },
+        {
+          "page": 3,
+          "messagesId": [
+            "123456"
+          ]
+        },
+        {
+          "page": 5,
+          "messagesId": [
+            "123456"
+          ]
+        }
+      ]
+    },
+    "notifications": [
+      {
+        "code": "string",
+        "level": "string",
+        "message": "string",
+        "timestamp": "2020-06-03T18:45:43.143Z"
+      }
+    ]
+  },
+  "clientDocuments": {
+    "data": [
+      {
+		  	"createdDate": "2020-04-20T07:41:44.995Z",
+		  	"customerId": "358990",
+		  	"filename": "contract-doc1.pdf",
+		  	"id": "11111",
+		  	"url": "http://localhost:3002/contract-docs/contract-doc1.pdf",
+		  	"size": "4mb"
+		  }, {
+		  	"createdDate": "2020-04-20T07:41:44.995Z",
+		  	"customerId": "358990",
+		  	"filename": "contract-doc2.pdf",
+		  	"id": "11112",
+		  	"url": "http://localhost:3002/contract-docs/contract-doc2.pdf",
+		  	"size": "4mb"
+		  }, {
+		  	"createdDate": "2020-04-20T07:41:44.995Z",
+		  	"customerId": "358990",
+		  	"filename": "contract-doc3.pdf",
+		  	"id": "11113",
+		  	"url": "http://localhost:3002/contract-docs/contract-doc3.pdf",
+		  	"size": "4mb"
+		  }, {
+		  	"createdDate": "2020-04-20T07:41:44.995Z",
+		  	"customerId": "358990",
+		  	"filename": "contract-doc4.pdf",
+		  	"id": "11114",
+		  	"url": "http://localhost:3002/contract-docs/contract-doc4.pdf",
+		  	"size": "4mb"
+		  }, {
+		  	"createdDate": "2020-04-20T07:41:44.995Z",
+		  	"customerId": "358990",
+		  	"filename": "contract-doc5.pdf",
+		  	"id": "11115",
+		  	"url": "http://localhost:3002/contract-docs/contract-doc5.pdf",
+		  	"size": "4mb"
+		  }, {
+		  	"createdDate": "2020-04-20T07:41:44.995Z",
+		  	"customerId": "358990",
+		  	"filename": "contract-doc6.pdf",
+		  	"id": "111116",
+		  	"url": "http://localhost:3002/contract-docs/contract-doc6.pdf",
+		  	"size": "4mb"
+		  }
+    ],
+    "notifications": [
+      {
+        "code": "string",
+        "level": "INFO",
+        "message": "string",
+        "timestamp": "2020-04-22T16:35:51.827Z"
+      }
+    ]
+  },
+  "clientContracts": {
+    "data": [
+      {
+        "createdDate": "2020-04-20T07:41:44.995Z",
+        "customerId": "358990",
+        "filename": "TC.pdf",
+        "id": "12345",
+        "url": "http://www.orimi.com/pdf-test.pdf",
+        "size": "4mb"
+      },
+      {
+        "createdDate": "2020-04-20T07:41:44.995Z",
+        "customerId": "358990",
+        "filename": "TC2.pdf",
+        "id": "12346",
+        "url": "http://www.orimi.com/pdf-test.pdf",
+        "size": "4mb"
+      },
+      {
+        "createdDate": "2020-04-20T07:41:44.995Z",
+        "customerId": "358990",
+        "filename": "TC3.pdf",
+        "id": "12347",
+        "url": "http://www.orimi.com/pdf-test.pdf",
+        "size": "4mb"
+      },
+      {
+        "createdDate": "2020-04-20T07:41:44.995Z",
+        "customerId": "358990",
+        "filename": "TC3.pdf",
+        "id": "12347",
+        "url": "http://www.orimi.com/pdf-test.pdf",
+        "size": "4mb"
+      }
+    ],
+    "notifications": [
+      {
+        "code": "string",
+        "level": "INFO",
+        "message": "string",
+        "timestamp": "2020-04-22T16:35:51.827Z"
+      }
+    ]
+  },
+  "customerInfo": {
+    "data": {
+      "bank_segment": {
+        "key": "12345678",
+        "name": "Santander"
+      },
+      "buc": "358990",
+      "contact_info": [
+        {
+          "email": "juan.poe@gmail.com",
+          "mobileNumber": "55 678 98 65",
+          "phoneNumber": "55 678 98 65",
+          "status": "ACTIVE",
+          "type": "BRANCH_USE"
+        }
+      ],
+      "contactMethod": "juan.poe@gmail.com",
+      "executiveId": "123456789",
+      "fiscalRegime": "NATURAL",
+      "key": "1234567",
+      "lastName": "Poe",
+      "name": "Juan",
+      "personalIdentifier": "123456789",
+      "profilePicture": "http://localhost:3002/avatar-1.png",
+      "registrationDate": "2020-05-11",
+      "secondLastName": "Brenes",
+      "status": "ACTIVE",
+      "universityEnabled": true
+    },
+    "notifications": [
+      {
+        "code": "string",
+        "message": "string",
+        "timestamp": "2020-05-11T23:47:37.507Z"
+      }
+    ]
+  },
+  "conversation-history": [
+    {
+      "conversationId": "string",
+      "creationDateTime": "2020-05-05T10:38:04.134Z",
+      "from": "string",
+      "id": "string",
+      "status": "ENVIADO",
+      "statusHistory": [
+        {
+          "information": {
+            "comment": "string",
+            "reason": "string"
+          },
+          "status": "ENVIADO",
+          "timestamp": "2020-05-03T10:38:04.135Z"
+        },
+        {
+          "information": {
+            "comment": "string",
+            "reason": "string"
+          },
+          "status": "LEIDO",
+          "timestamp": "2020-05-04T10:38:04.135Z"
+        },
+        {
+          "information": {
+            "comment": "Error de cliente y promoción",
+            "reason": "Error de información"
+          },
+          "status": "ELIMINADO",
+          "timestamp": "2020-05-05T10:38:04.135Z"
+        }
+      ],
+      "text": {
+        "body": "Hola Mario, me interesa."
+      },
+      "to": "string",
+      "type": "TEXT"
+    },
+    {
+      "conversationId": "string",
+      "creationDateTime": "2020-05-05T10:38:04.134Z",
+      "from": "string",
+      "id": "string",
+      "status": "ENVIADO",
+      "statusHistory": [
+        {
+          "information": {
+            "comment": "string",
+            "reason": "string"
+          },
+          "status": "ENVIADO",
+          "timestamp": "2020-05-03T10:38:04.135Z"
+        },
+        {
+          "information": {
+            "comment": "string",
+            "reason": "string"
+          },
+          "status": "LEIDO",
+          "timestamp": "2020-05-04T10:38:04.135Z"
+        },
+        {
+          "information": {
+            "comment": "Error de cliente y promoción",
+            "reason": "Error de información"
+          },
+          "status": "ELIMINADO",
+          "timestamp": "2020-05-05T10:38:04.135Z"
+        }
+      ],
+      "text": {
+        "body": "Hola Armando, para el mes de noviembre tenemos una promoción exclusiva, tarjeta America Express sin anualidad por 2 años y línea de crédito de $40,000.00"
+      },
+      "to": "string",
+      "type": "TEXT"
+    }
+  ],
+  "personalClientDetail": {
+    "customerSummaryInfos": [
+      {
+        "buc": "89123768",
+        "email": "alberto.sanchez@santander.com",
+        "executiveId": "J23678",
+        "fiscal_regime": "Física",
+        "key": "K237462784",
+        "last_name": "Cruz",
+        "name": "Alberto",
+        "phone_number": "874361782",
+        "profile_picture": "http://localhost:3002/avatar-1.png",
+        "registration_date": "2020-06-03",
+        "second_name": "Sánchez",
+        "status": "ACTIVE"
+      }
+    ],
+    "executive": {
+      "buc": "76718367",
+      "email": "jose.cano@santander.com",
+      "extension": "23480hu23",
+      "key": "hefgruefhruw32",
+      "lastName": "Segura",
+      "name": "Jose",
+      "personalIdentifier": "FEWFWFE3312",
+      "phoneNumber": "6613452678",
+      "profilePicture": "http://localhost:3002/avatar-1.png",
+      "ratings": [
+        {
+          "comment": "Buen gerente",
+          "contractId": "2347891347894789b",
+          "dateTime": "2020-06-03T15:09:56.488Z",
+          "id": "23478023478f",
+          "score": 3
+        }
+      ],
+      "registrationDate": "2020-06-03T15:09:56.488Z",
+      "role": "ADMIN",
+      "secondName": "Cano",
+      "signatureNumber": "string",
+      "status": "ACTIVE",
+      "supervisorId": "string"
+    }
+  },
+
+  "catalogOperations": {
+    "data": [
+      {
+        "id": "1",
+        "tagCategory": "OperationType",
+        "name": "Crédito personal",
+        "description": "Crédito a corto plazo",
+        "hasCost": false,
+        "status": "INACTIVE",
+        "updatedAt" : "2020-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "2",
+        "tagCategory": "OperationType",
+        "name": "Tarjeta de crédito preaprobada",
+        "description": "Tarjeta de crédito",
+        "hasCost": true,
+        "status": "ACTIVE",
+        "updatedAt" : "2019-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "3",
+        "tagCategory": "OperationType",
+        "name": "Hipoteca",
+        "description": "Aceptaciones",
+        "hasCost": true,
+        "status": "INACTIVE",
+        "updatedAt" : "2018-01-01T00:00:00.000Z"
+      }
+    ]
+  },
+  "catalogCalendar": {
+    "data":[
+      {
+        "id": "1",
+        "tagCategory": "Calendar",
+        "name": "Z Fuera de horario",
+        "description": "Santander Personal ofrece servicio normal",
+        "daysActive": [{ "day": "MONDAY" }, { "day": "TUESDAY" }, { "day": "WEDNESDAY" }, { "day": "THURSDAY" }, { "day": "FRIDAY" }],
+        "hourStart": "08:00",
+        "hourEnd": "20:00",
+        "validityStart": "2019-01-01T00:00:00.000Z",
+        "validityEnd": "2021-12-31T00:00:00.000Z",
+        "status": "ACTIVE"
+      },
+      {
+        "id": "2",
+        "tagCategory": "Calendar",
+        "name": "A Horario de verano",
+        "description": "Santander Personal ofrece servicio vacaciones",
+        "daysActive": [{ "day": "MONDAY" }, { "day": "TUESDAY" }, { "day": "WEDNESDAY" }, { "day": "THURSDAY" }, { "day": "FRIDAY" }],
+        "hourStart": "08:00",
+        "hourEnd": "20:00",
+        "validityStart": "2020-01-01T00:00:00.000Z",
+        "validityEnd": "2021-12-31T00:00:00.000Z",
+        "status": "INACTIVE"
+      },
+      {
+        "id": "3",
+        "tagCategory": "Calendar",
+        "name": "C Horario pascua",
+        "description": "Santander Personal servicio semana santa",
+        "daysActive": [{ "day": "SATURDAY" }, { "day": "SUNDAY" }],
+        "hourStart": "08:00",
+        "hourEnd": "20:00",
+        "validityStart": "2021-01-01T00:00:00.000Z",
+        "validityEnd": "2022-12-31T00:00:00.000Z",
+        "status": "ACTIVE"
+      }
+    ]
+  },
+  "catalogCancellation": {
+    "data":[
+      {
+        "id": "1",
+        "tagCategory": "RejectSubd",
+        "name": "Rechazo - Subdirector",
+        "description": "Error en los documentos",
+        "status": "ACTIVE",
+        "updatedAt" : "2020-01-01T00:00:00.000Z"
+      },
+      {
+        "id": "2",
+        "tagCategory": "RejectClient",
+        "name": "Rechazo - Cliente",
+        "description": "El cliente ya no quiere adquirir el producto",
+        "status": "INACTIVE",
+        "updatedAt" : "2019-01-01T00:00:00.000Z"
+      }
+    ]
+  }
+}
